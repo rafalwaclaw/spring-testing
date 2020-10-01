@@ -91,7 +91,7 @@ The **Spring Service** itself has a pretty common internal architecture:
   ```  
 
 ## Test Layers
-The example applicationn shows different test layers according to the [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html).
+The example application shows different test layers according to the [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html).
 
 ```
       ╱╲
